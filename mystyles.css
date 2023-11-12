@@ -1,0 +1,14 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+.my-table {
+    border: 1px solid black; 
+}
+#my_h2 {
+    color: #ff0000
+}
+#my_h2:hover {
+    color: green
+}
